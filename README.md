@@ -6,7 +6,7 @@ I am an IT student at XU College, driven by a curiosity for technology and a lov
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at XU College.
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
-- 💬 Ask me about ...
+- 💬 I also enjoy Cardfight!! Vanguard
 - 📫 How to reach me: <20230028185@my.xu.edu.ph>
 
 ## 💻 Tech Stack
