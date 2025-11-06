@@ -22,3 +22,6 @@ I am an IT student at XU College, driven by a curiosity for technology and a lov
 - 🔭 I’m currently working on my final API project.
 
 Thanks for stopping by!
+
+# This route returns all items from the database
+
